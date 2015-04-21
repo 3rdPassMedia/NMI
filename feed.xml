@@ -1,80 +1,115 @@
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-<channel>
-<title>New Media Interchange</title>
-<link>http://the3rdpass.podhoster.com/index.php?sid=3750</link>
-<description>
-<![CDATA[ Your show description here. ]]>
-</description>
-<language>en</language>
-<copyright>2015 3rdPass Media</copyright>
-<webMaster>support@podhoster.com (PodHoster Support)</webMaster>
-<pubDate>Tue, 21 Apr 2015 13:20:17 -0400</pubDate>
-<lastBuildDate>Tue, 21 Apr 2015 00:00:00 -0400</lastBuildDate>
-<category>Technology</category>
-<category>Entertainment</category>
-<category>News</category>
-<generator>Pod Hoster - podhoster.com</generator>
-<ttl>180</ttl>
-<image>
-<url>
-http://the3rdpass.podhoster.com/media/images/nmi_logo_3pm_brand_2000x2000.png
-</url>
-<title>NMILOGO</title>
-<link>http://the3rdpass.podhoster.com/index.php?sid=3750</link>
-</image>
-<itunes:subtitle/>
-<itunes:summary/>
-<itunes:author>3rdPass.media</itunes:author>
-<itunes:image href="http://the3rdpass.podhoster.com/media/images/"/>
-<itunes:owner>
-<itunes:email>NMI@3rdPass.media</itunes:email>
-<itunes:name>3rdPass.media</itunes:name>
-</itunes:owner>
-<itunes:explicit>no</itunes:explicit>
-<itunes:block>no</itunes:block>
-<atom:link href="http://nmi.3rdPass.media" rel="self" type="application/rss+xml"/>
-<item>
-<title>NMI #001 Nintendo, YouTube, and NetFlix</title>
-<link>
-http://the3rdpass.podhoster.com/index.php?sid=3750&pid=42682
-</link>
-<description>
-<![CDATA[
-New Media Interchange is a podcast spotlighting various developments in New Media & focusing on the media world beyond mainstream television and radio, including podcasting, YouTube, live streaming, gaming and more. Hosted by Douglas E. Welch , pioneer podcaster, blogger and new media consultant.
- 
- On this Preview episode we talk about the relationship between Nintendo and those who stream Nintendo games on YouTube; and how Netflix plans to spend $5B on original programming.
- 
- Nintendo Updates Their Bad YouTube Policies By Making Them Worse
- www.forbes.com/sites/insertcoin/…aking-them-worse/
- 
- Netflix will spend $5 billion on programming in 2016, more than everyone but ESPN
- www.businessinsider.com/netflix-will-…ixzz3XtpN3GG4
- 
- Want To Know The Best Days And Times To Post YouTube Videos? Here’s A Yearly Calendar.
- www.tubefilter.com/2015/01/12/best…early-calendar/
- 
- twitter.com/NMIPodcast
- 3rdPass.media
-]]>
-</description>
-<author>NMI@3rdPass.media (3rdPass.media)</author>
-<category>New Media</category>
-<pubDate>Tue, 21 Apr 2015 00:00:00 -0400</pubDate>
-<guid>
-http://the3rdpass.podhoster.com/index.php?sid=3750&pid=42682
-</guid>
-<enclosure url="http://the3rdpass.podhoster.com/download/3750/42682/nmi-001.mp3" length="12449310" type="audio/mpeg"/>
-<itunes:author>3rdPass.media</itunes:author>
-<itunes:block>no</itunes:block>
-<itunes:explicit>no</itunes:explicit>
-<itunes:subtitle>with Douglas E. Welch</itunes:subtitle>
-<itunes:summary>
-New Media Interchange is a podcast spotlighting various developments in New Media & focusing on the media world beyond mainstream television and radio, including podcasting, YouTube, live streaming, gaming and more. Hosted by Douglas E. Welch , pioneer podcaster, blogger and new media consultant. On this Preview episode we talk about the relationship between Nintendo and those who stream Nintendo games on YouTube; and how Netflix plans to spend $5B on original programming. Nintendo Updates Their Bad YouTube Policies By Making Them Worse www.forbes.com/sites/insertcoin/…aking-them-worse/ Netflix will spend $5 billion on programming in 2016, more than everyone but ESPN www.businessinsider.com/netflix-will-…ixzz3XtpN3GG4 Want To Know The Best Days And Times To Post YouTube Videos? Here’s A Yearly Calendar. www.tubefilter.com/2015/01/12/best…early-calendar/ twitter.com/NMIPodcast 3rdPass.media
-</itunes:summary>
-<itunes:keywords>
-New,,Media,,Nintendo,,YouTube,,Lets,Play,,NetFlix,,ESPN
-</itunes:keywords>
-<itunes:duration/>
-</item>
-</channel>
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <atom:link href="http://feeds.soundcloud.com/users/soundcloud:users:130054277/sounds.rss" rel="self" type="application/rss+xml"/>
+    <title>The 3rdPass.media Firehose</title>
+    <link>http://soundcloud.com/3rdpass</link>
+    <pubDate>Tue, 21 Apr 2015 00:03:58 +0000</pubDate>
+    <lastBuildDate>Tue, 21 Apr 2015 00:03:58 +0000</lastBuildDate>
+    <ttl>60</ttl>
+    <language>en</language>
+    <copyright>All rights reserved</copyright>
+    <webMaster>feeds@soundcloud.com (SoundCloud Feeds)</webMaster>
+    <description>Podcast by 3rdPass.media</description>
+    <itunes:subtitle>Podcast by 3rdPass.media</itunes:subtitle>
+    <itunes:owner>
+      <itunes:name>3rdPass.media</itunes:name>
+    </itunes:owner>
+    <itunes:author>3rdPass.media</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:image href="http://i1.sndcdn.com/avatars-000134815064-jo3q1r-original.png"/>
+    <image>
+      <url>http://i1.sndcdn.com/avatars-000134815064-jo3q1r-original.png</url>
+      <title>3rdPass.media</title>
+      <link>http://soundcloud.com/3rdpass</link>
+    </image>
+    <itunes:category text="TV &amp; Film"/>
+    <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/201783741</guid>
+      <title>NMI #001 Nintendo, YouTube, and NetFlix</title>
+      <pubDate>Tue, 21 Apr 2015 00:03:58 +0000</pubDate>
+      <link>https://soundcloud.com/3rdpass/nmi-001-nintendo-youtube-and-netflix</link>
+      <itunes:duration>00:08:31</itunes:duration>
+      <itunes:author>3rdPass.media</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>New Media Interchange is a podcast spotlighting various developments in New Media &amp; focusing on the media world beyond mainstream television and radio, including podcasting, YouTube, live streaming, gaming and more. Hosted by Douglas E. Welch , pioneer podcaster,  blogger and new media consultant.
+
+On this Preview episode we talk about the relationship between Nintendo and those who stream Nintendo games on YouTube; and how Netflix plans to spend $5B on original programming.
+
+Nintendo Updates Their Bad YouTube Policies By Making Them Worse
+http://www.forbes.com/sites/insertcoin/2015/02/06/nintendo-updates-their-bad-youtube-policies-by-making-them-worse/
+
+Netflix will spend $5 billion on programming in 2016, more than everyone but ESPN
+http://www.businessinsider.com/netflix-will-spend-5-billion-on-programming-in-2016-2015-2#ixzz3XtpN3GG4
+
+Want To Know The Best Days And Times To Post YouTube Videos? Here’s A Yearly Calendar.
+http://www.tubefilter.com/2015/01/12/best-days-times-to-post-youtube-videos-yearly-calendar/
+
+http://twitter.com/NMIPodcast
+http://3rdPass.media</itunes:summary>
+      <itunes:subtitle>New Media Interchange is a podcast spotlighting v…</itunes:subtitle>
+      <description>New Media Interchange is a podcast spotlighting various developments in New Media &amp; focusing on the media world beyond mainstream television and radio, including podcasting, YouTube, live streaming, gaming and more. Hosted by Douglas E. Welch , pioneer podcaster,  blogger and new media consultant.
+
+On this Preview episode we talk about the relationship between Nintendo and those who stream Nintendo games on YouTube; and how Netflix plans to spend $5B on original programming.
+
+Nintendo Updates Their Bad YouTube Policies By Making Them Worse
+http://www.forbes.com/sites/insertcoin/2015/02/06/nintendo-updates-their-bad-youtube-policies-by-making-them-worse/
+
+Netflix will spend $5 billion on programming in 2016, more than everyone but ESPN
+http://www.businessinsider.com/netflix-will-spend-5-billion-on-programming-in-2016-2015-2#ixzz3XtpN3GG4
+
+Want To Know The Best Days And Times To Post YouTube Videos? Here’s A Yearly Calendar.
+http://www.tubefilter.com/2015/01/12/best-days-times-to-post-youtube-videos-yearly-calendar/
+
+http://twitter.com/NMIPodcast
+http://3rdPass.media</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/201783741-3rdpass-nmi-001-nintendo-youtube-and-netflix.mp3" length="12449310"/>
+      <itunes:image href="http://i1.sndcdn.com/artworks-000114077112-y9hmfd-original.png"/>
+    </item>
+    <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/200996655</guid>
+      <title>Mindful(l) Media: DC Fontana, Star Trek and Women</title>
+      <pubDate>Wed, 15 Apr 2015 22:14:59 +0000</pubDate>
+      <link>https://soundcloud.com/3rdpass/mm-startrek-and-women</link>
+      <itunes:duration>00:18:51</itunes:duration>
+      <itunes:author>3rdPass.media</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Listen as Dr Rosanne Welch helps teach the audience to be more Mindfull about the Media we both create and consume as it relates to the portrayal of Gender, Diversity, and Equality.
+
+In this Preview Episode, Dr Welch details what she hopes to accomplish with the podcast, followed by an essay on the Inspirational Dorothy Catherine "D.C." Fontana, best known for her script and story work for the Original Star Trek television series.</itunes:summary>
+      <itunes:subtitle>Listen as Dr Rosanne Welch helps teach the audien…</itunes:subtitle>
+      <description>Listen as Dr Rosanne Welch helps teach the audience to be more Mindfull about the Media we both create and consume as it relates to the portrayal of Gender, Diversity, and Equality.
+
+In this Preview Episode, Dr Welch details what she hopes to accomplish with the podcast, followed by an essay on the Inspirational Dorothy Catherine "D.C." Fontana, best known for her script and story work for the Original Star Trek television series.</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/200996655-3rdpass-mm-startrek-and-women.mp3" length="27743251"/>
+      <itunes:image href="http://i1.sndcdn.com/artworks-000113523937-hff2ju-original.png"/>
+    </item>
+    <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/200227656</guid>
+      <title>the renderBREAK Report #001 NAB The Candy</title>
+      <pubDate>Fri, 10 Apr 2015 21:35:11 +0000</pubDate>
+      <link>https://soundcloud.com/3rdpass/rbr-001-nab-the-candy</link>
+      <itunes:duration>00:35:27</itunes:duration>
+      <itunes:author>3rdPass.media</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>In this first episode of renderBreak, I am joined by Michael Kammes of Keycode Media as we discuss the Adobe Announcements leading into NAB, and NAB itself.</itunes:summary>
+      <itunes:subtitle>In this first episode of renderBreak, I am joined…</itunes:subtitle>
+      <description>In this first episode of renderBreak, I am joined by Michael Kammes of Keycode Media as we discuss the Adobe Announcements leading into NAB, and NAB itself.</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/200227656-3rdpass-rbr-001-nab-the-candy.mp3" length="51003846"/>
+      <itunes:image href="http://i1.sndcdn.com/artworks-000112982936-v06nop-original.jpg"/>
+    </item>
+    <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/198874216</guid>
+      <title>Wilhelm's Scream</title>
+      <pubDate>Thu, 02 Apr 2015 08:23:31 +0000</pubDate>
+      <link>https://soundcloud.com/3rdpass/wilhelm</link>
+      <itunes:duration>00:00:01</itunes:duration>
+      <itunes:author>3rdPass.media</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>This is only a test... Popular Public Domain Audio Effect</itunes:summary>
+      <itunes:subtitle>This is only a test... Popular Public Domain Audi…</itunes:subtitle>
+      <description>This is only a test... Popular Public Domain Audio Effect</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/198874216-3rdpass-wilhelm.mp3" length="0"/>
+      <itunes:image href="http://i1.sndcdn.com/avatars-000134815064-jo3q1r-original.png"/>
+    </item>
+  </channel>
 </rss>
