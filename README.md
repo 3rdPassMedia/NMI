@@ -1,2 +1,0 @@
-# NMI
-New Media Interchange

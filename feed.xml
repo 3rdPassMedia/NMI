@@ -1,0 +1,80 @@
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+<title>New Media Interchange</title>
+<link>http://the3rdpass.podhoster.com/index.php?sid=3750</link>
+<description>
+<![CDATA[ Your show description here. ]]>
+</description>
+<language>en</language>
+<copyright>2015 3rdPass Media</copyright>
+<webMaster>support@podhoster.com (PodHoster Support)</webMaster>
+<pubDate>Tue, 21 Apr 2015 13:20:17 -0400</pubDate>
+<lastBuildDate>Tue, 21 Apr 2015 00:00:00 -0400</lastBuildDate>
+<category>Technology</category>
+<category>Entertainment</category>
+<category>News</category>
+<generator>Pod Hoster - podhoster.com</generator>
+<ttl>180</ttl>
+<image>
+<url>
+http://the3rdpass.podhoster.com/media/images/nmi_logo_3pm_brand_2000x2000.png
+</url>
+<title>NMILOGO</title>
+<link>http://the3rdpass.podhoster.com/index.php?sid=3750</link>
+</image>
+<itunes:subtitle/>
+<itunes:summary/>
+<itunes:author>3rdPass.media</itunes:author>
+<itunes:image href="http://the3rdpass.podhoster.com/media/images/"/>
+<itunes:owner>
+<itunes:email>NMI@3rdPass.media</itunes:email>
+<itunes:name>3rdPass.media</itunes:name>
+</itunes:owner>
+<itunes:explicit>no</itunes:explicit>
+<itunes:block>no</itunes:block>
+<atom:link href="http://nmi.3rdPass.media" rel="self" type="application/rss+xml"/>
+<item>
+<title>NMI #001 Nintendo, YouTube, and NetFlix</title>
+<link>
+http://the3rdpass.podhoster.com/index.php?sid=3750&pid=42682
+</link>
+<description>
+<![CDATA[
+New Media Interchange is a podcast spotlighting various developments in New Media & focusing on the media world beyond mainstream television and radio, including podcasting, YouTube, live streaming, gaming and more. Hosted by Douglas E. Welch , pioneer podcaster, blogger and new media consultant.
+ 
+ On this Preview episode we talk about the relationship between Nintendo and those who stream Nintendo games on YouTube; and how Netflix plans to spend $5B on original programming.
+ 
+ Nintendo Updates Their Bad YouTube Policies By Making Them Worse
+ www.forbes.com/sites/insertcoin/…aking-them-worse/
+ 
+ Netflix will spend $5 billion on programming in 2016, more than everyone but ESPN
+ www.businessinsider.com/netflix-will-…ixzz3XtpN3GG4
+ 
+ Want To Know The Best Days And Times To Post YouTube Videos? Here’s A Yearly Calendar.
+ www.tubefilter.com/2015/01/12/best…early-calendar/
+ 
+ twitter.com/NMIPodcast
+ 3rdPass.media
+]]>
+</description>
+<author>NMI@3rdPass.media (3rdPass.media)</author>
+<category>New Media</category>
+<pubDate>Tue, 21 Apr 2015 00:00:00 -0400</pubDate>
+<guid>
+http://the3rdpass.podhoster.com/index.php?sid=3750&pid=42682
+</guid>
+<enclosure url="http://the3rdpass.podhoster.com/download/3750/42682/nmi-001.mp3" length="12449310" type="audio/mpeg"/>
+<itunes:author>3rdPass.media</itunes:author>
+<itunes:block>no</itunes:block>
+<itunes:explicit>no</itunes:explicit>
+<itunes:subtitle>with Douglas E. Welch</itunes:subtitle>
+<itunes:summary>
+New Media Interchange is a podcast spotlighting various developments in New Media & focusing on the media world beyond mainstream television and radio, including podcasting, YouTube, live streaming, gaming and more. Hosted by Douglas E. Welch , pioneer podcaster, blogger and new media consultant. On this Preview episode we talk about the relationship between Nintendo and those who stream Nintendo games on YouTube; and how Netflix plans to spend $5B on original programming. Nintendo Updates Their Bad YouTube Policies By Making Them Worse www.forbes.com/sites/insertcoin/…aking-them-worse/ Netflix will spend $5 billion on programming in 2016, more than everyone but ESPN www.businessinsider.com/netflix-will-…ixzz3XtpN3GG4 Want To Know The Best Days And Times To Post YouTube Videos? Here’s A Yearly Calendar. www.tubefilter.com/2015/01/12/best…early-calendar/ twitter.com/NMIPodcast 3rdPass.media
+</itunes:summary>
+<itunes:keywords>
+New,,Media,,Nintendo,,YouTube,,Lets,Play,,NetFlix,,ESPN
+</itunes:keywords>
+<itunes:duration/>
+</item>
+</channel>
+</rss>
